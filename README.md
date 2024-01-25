@@ -11,8 +11,8 @@ Chatbot详细指令
     5.搜电影：使用“/搜电影”触发，返回各大网盘链接
 
     #使用案例
-    <img src="docx/AI绘画.jpg" width="240px"> <img src="docx/举牌测试.jpg" width="240px">
-    <img src="docx/抖音去水印.jpg" width="240px"> <img src="docx/搜歌.jpg" width="240px">
+  <img src="docx/搜歌.jpg" width="240px"> <img src="docx/AI绘画.jpg" width="240px"> <img src="docx/抖音去水印.jpg" width="240px"> <img src="docx/搜电影.jpg" width="240px"> 
+  
   
   
 
